@@ -1,0 +1,3 @@
+PRINT 'Function info()'
+CREATE FUNCTION [{{logging.schemaName}}].[info] AS ...
+GO

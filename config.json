@@ -1,0 +1,8 @@
+{
+  "namespace": "logging",
+  "dbType": "SQL Azure",
+  "settings": {
+    "schemaName": "log",
+    "logLevel": "debug"
+  }
+}
